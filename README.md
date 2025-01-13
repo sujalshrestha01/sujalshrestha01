@@ -1,6 +1,7 @@
 ## Hi there 👋
--i'm a Pull stack developer.
--just pull thing from the internet and keep it simple..
+i'm a Pull stack developer.
+
+just pull thing from the internet and keep it simple..
 
 <!--
 **sujalshrestha01/sujalshrestha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
