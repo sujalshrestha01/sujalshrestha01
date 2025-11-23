@@ -16,7 +16,3 @@ Currently focusing on **React, Tailwind CSS, and MERN stack development**.
 **Other:** REST APIs • JSON • Responsive UI • Components & State Management  
 
 
-## 📊 GitHub Stats
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalshrestha01&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshrestha01&layout=compact&theme=radical)
