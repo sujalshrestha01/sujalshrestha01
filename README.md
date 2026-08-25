@@ -19,5 +19,6 @@ Currently focusing on **React, Tailwind CSS, and MERN stack development**.
 
 ## 💡 Developer Logic
 
-* Whenever I see a door with a **PUSH** sign, I **PULL** first to avoid merge conflicts. *(Don't worry if you didn't **GIT** it!)* 🚪
+* Whenever I see a door with a **PUSH** sign, I **PULL** first to avoid any conflicts.
+  *(Don't worry if you didn't **GIT** it!)* 🚪
 * Am I a **pull-stack** developer? 🤔
